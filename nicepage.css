@@ -35825,6 +35825,7 @@ a.u-link.u-text-hover-grey-90:hover {
         line-height: 1.2;
         margin-top: 20px;
         margin-bottom: 20px;
+        font-family: Georgia,serif;
         }
         h6
         {
@@ -35850,6 +35851,7 @@ a.u-link.u-text-hover-grey-90:hover {
         {
         margin-top: 20px;
         margin-bottom: 20px;
+        font-family: Georgia,serif;
         }
         .u-btn
         {
@@ -35924,6 +35926,26 @@ a.u-link.u-text-hover-grey-90:hover {
         font-size: 1.5rem;
         }
         }
+        @media (max-width: 991px) {
+        h5
+        {
+        font-size: 1.5rem;
+        font-weight: 700;
+        line-height: 1.2;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        }
+        }
+        @media (max-width: 991px) {
+        p:not(.u-text-variant)
+        {
+        font-size: 1.875rem;
+        font-weight: 400;
+        line-height: 1.6;
+        list-icon-spacing: 0.3;
+        list-icon-size: 0.8;
+        }
+        }
         /*end-media rules*/
         /** publish-rules **/
 
@@ -35954,6 +35976,24 @@ a.u-link.u-text-hover-grey-90:hover {
         .u-xs h3
         {
         font-size: 1.5rem;
+        }
+        .u-md h5
+        {
+        font-weight: 700;
+        font-size: 1.5rem;
+        line-height: 1.2;
+        }
+        .u-sm h5
+        {
+        font-weight: 700;
+        font-size: 1.5rem;
+        line-height: 1.2;
+        }
+        .u-xs h5
+        {
+        font-weight: 700;
+        font-size: 1.5rem;
+        line-height: 1.2;
         }
         /*end-responsive rules*/
         /** cms-rules **/
