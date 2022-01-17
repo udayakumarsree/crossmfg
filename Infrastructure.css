@@ -137,6 +137,7 @@
   left: 10px;
   width: 40px;
   height: 40px;
+  background-image: none;
 }
 
 .u-section-2 .u-carousel-control-2 {
@@ -144,6 +145,7 @@
   right: 10px;
   width: 40px;
   height: 40px;
+  background-image: none;
 }
 
 @media (max-width: 1199px) {
@@ -862,6 +864,7 @@
   left: 10px;
   width: 40px;
   height: 40px;
+  background-image: none;
 }
 
 .u-section-5 .u-carousel-control-2 {
@@ -869,6 +872,7 @@
   right: 10px;
   width: 40px;
   height: 40px;
+  background-image: none;
 }
 
 @media (max-width: 1199px) {
