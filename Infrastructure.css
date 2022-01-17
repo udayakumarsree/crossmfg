@@ -806,7 +806,7 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 162px;
+    min-height: 182px;
   }
 
   .u-section-4 .u-text-1 {
@@ -815,7 +815,7 @@
 
   .u-section-4 .u-text-2 {
     width: 340px;
-    margin-bottom: -154px;
+    margin-bottom: -134px;
   }
 }.u-section-5 .u-sheet-1 {
   min-height: 236px;
@@ -861,7 +861,7 @@
     width: 340px;
     height: 188px;
     margin-top: 20px;
-    margin-bottom: -108px;
+    margin-bottom: auto;
   }
 } .u-section-6 {
   background-image: none;
