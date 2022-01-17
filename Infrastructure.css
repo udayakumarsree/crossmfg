@@ -854,12 +854,13 @@
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 188px;
+    min-height: 208px;
   }
 
   .u-section-5 .u-image-1 {
     width: 340px;
     height: 188px;
+    margin-top: 20px;
     margin-bottom: -108px;
   }
 } .u-section-6 {
