@@ -55,12 +55,12 @@
     width: 340px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 486px;
+  min-height: 456px;
 }
 
 .u-section-2 .u-gallery-1 {
   height: 800px;
-  margin: 30px auto 60px;
+  margin: 30px auto;
 }
 
 .u-section-2 .u-carousel-indicators-1 {
@@ -143,7 +143,6 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-gallery-1 {
     height: 660px;
-    margin-bottom: 30px;
     width: 940px;
     margin-right: auto;
     margin-left: auto;
